@@ -161,6 +161,12 @@ https://github.com/pinkeshdarji/PrayerBeads
 ---------------------------------------------------------------------------------------------
 
 
+https://github.com/deven98/flutter_randomize
+
+![alt text](https://github.com/deven98/flutter_randomize/blob/master/screenshot_1.png "image")
+
+---------------------------------------------------------------------------------------------
+
 
 
 
